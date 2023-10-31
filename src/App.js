@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <code>static website in s3 with Github Action; tStill working!! </code> 
+        <code>static website in s3 with Github Action; Still working!! </code> 
         </p>
         <a
           className="App-link"
